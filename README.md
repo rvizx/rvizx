@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+I'm Ravindu Wickramasinghe a cybersecurity undergraduate that's passionate about offensive security and exploit development.
+
 <!--
+
 **rvizx/rvizx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+UwU
 -->
