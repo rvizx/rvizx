@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ravindu Wickramasinghe a cybersecurity undergraduate that's passionate about offensive security and exploit development.
+I'm rvz a cybersecurity undergraduate that's passionate about offensive security.
 
 <!--
 
