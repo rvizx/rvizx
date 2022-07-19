@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm rvz a cybersecurity undergraduate that's passionate about offensive security.
+I'm rvz, a cybersecurity undergraduate that's passionate about offensive security.
 
 <!--
 
