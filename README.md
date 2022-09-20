@@ -1,1 +1,1 @@
-Hola! 👋 I'm Ravindu Wickramasinghe AKA rvz.
+[about me](https://rvizx.github.io/about/) 
