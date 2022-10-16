@@ -1,1 +1,1 @@
-[about me](https://rvizx.github.io/about/) 
+[whoami](https://rvizx.github.io/whoami/) 
