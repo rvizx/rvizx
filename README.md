@@ -1,1 +1,1 @@
-rvz@azexv: ~> [whoami](https://rvizx.github.io/whoami/) 
+rvz@azexv: ~> [whoami](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
