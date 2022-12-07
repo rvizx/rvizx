@@ -1,1 +1,1 @@
-rvz@earth: ~> [whoami](https://rvizx.github.io/) 
+rvz@terra: ~> [whoami](https://rvizx.github.io/) 
