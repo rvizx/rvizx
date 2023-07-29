@@ -1,0 +1,15 @@
+--2023-07-29 16:37:14--  https://media.tenor.com/jP0qr_Ha7_MAAAAi/darksouls-knight.gif
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving media.tenor.com (media.tenor.com)... 2404:6800:4009:821::200a, 2404:6800:4009:822::200a, 2404:6800:4009:823::200a, ...
+Connecting to media.tenor.com (media.tenor.com)|2404:6800:4009:821::200a|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155106 (151K) [image/gif]
+Saving to: ‘darksouls-knight.gif’
+
+     0K .......... .......... .......... .......... .......... 33%  432K 0s
+    50K .......... .......... .......... .......... .......... 66%  839K 0s
+   100K .......... .......... .......... .......... .......... 99% 1.20M 0s
+   150K .                                                     100% 6.06M=0.2s
+
+2023-07-29 16:37:14 (701 KB/s) - ‘darksouls-knight.gif’ saved [155106/155106]
+
